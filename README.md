@@ -12,4 +12,4 @@ http://blog.hareis.top
 
 ## License
 
-MIT © [haires](https://github.com/Hareis)
+MIT © [Hareis](https://github.com/Hareis)
