@@ -8,6 +8,6 @@ module.exports = {
     'html'
   ],
   rule: {
-    'no-debugger': process.env.NODE_ENV === 'production' ? 2 : 0
+    'no-debugger': process.env.NODE_ENV === 'production' ? 4 : 0
   }
 }
